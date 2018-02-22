@@ -63,3 +63,4 @@ This project was generated using:
 * generator-ibm-service-enablement v0.7.0
 * generator-ibm-cloud-enablement v0.8.1
 * generator-ibm-java-liberty v8.1.1
+# bookingservice
